@@ -12,6 +12,7 @@ pip install -r requirements.txt
 
 # Implemented list
 - Simple Monte Carlo Methods
-- dismissal sampling
+- Dismissal sampling
 - Markov chain Monte Carlo methods
     - Metropolis Hastings
+    - Hamiltonian Monte Carlo
